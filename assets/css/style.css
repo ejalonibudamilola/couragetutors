@@ -281,8 +281,9 @@ h6 {
 }
 
 .navbar .btn-links {  
-  margin-left: 20px;
+  margin-left: 10px;
   padding: 10px 30px;
+  display: inline-block;
   border-radius: 50px;
   transition: 0.5s;
   color: #fff;
@@ -995,7 +996,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 20px;
-  background: #1acc8d;
+  background: #0193DC;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -1163,7 +1164,7 @@ section {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #1acc8d;
+  background-color: #0193DC;
 }
 
 @media (min-width: 1024px) {
@@ -1252,7 +1253,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #1acc8d;
+  color: #0193DC;
 }
 
 .team .member .social i {
